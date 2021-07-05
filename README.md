@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello Everyone!!👋, I'm Md. Bayazid Hossain</h1>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/xbayazid) [![Profile](https://visitor-badge.glitch.me/badge?page_id=xbayazid.profileviews-badge)](https://github.com/xbayazid) [![followers](https://img.shields.io/github/followers/xbayazid?style=social)](https://github.com/xbayazid?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/xbayazid))[![Repos Badge](https://badges.pufler.dev/repos/xbayazid)](https://github.com/xbayazid?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/bayazid-hossain-221220202)
+
 <br>
 
 Hi, I'm Md. Bayazid Hossain, a passionate Full Stack web developer from Bangladesh. I spend most of time in coding projects. I do a lot of things, and some of them you may even find interesting.🤞
