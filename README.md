@@ -6,7 +6,7 @@
 
 <br>
 
-Hi, I'm Md. Bayazid Hossain, a passionate Full Stack web developer from Bangladesh. I spend most of time in coding projects. I do a lot of things, and some of them you may even find interesting.🤞
+Hi, I'm Md. Bayazid Hossain, a passionate web developer from Bangladesh. I spend most of time in coding projects. I do a lot of things, and some of them you may even find interesting.🤞
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
 
@@ -61,12 +61,12 @@ Hi, I'm Md. Bayazid Hossain, a passionate Full Stack web developer from Banglade
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Web developement.
+- 🌱 I’m currently learning Cyber Security.
+- 👯 I’m looking to collaborate on web development realted projects.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about web development
+- 📫 How to reach me: bayazid.developer@gamil.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
